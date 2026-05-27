@@ -13,11 +13,9 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.matheusbarros.exerciciotestes"
+      "supportsTablet": true
     },
     "android": {
-      "package": "com.matheusbarros.exerciciotestes",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -26,11 +24,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "7f34d4fd-d9f5-4d55-9211-5424f29254c9"
-      }
     }
   }
 }
